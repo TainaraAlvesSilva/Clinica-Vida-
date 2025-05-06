@@ -1,0 +1,15 @@
+[
+    {
+      "nome": "Joana Silva",
+      "cpf": "3456785151",
+      "data_nascimento": "1990-10-10",
+      "telefone": "(85)99999-0000"
+    },
+    {
+      "nome": "Carlos Souza",
+      "cpf": "00765432100",
+      "data_nascimento": "1985-04-22",
+      "telefone": "(85)98888-1111"
+    }
+  ]
+  
