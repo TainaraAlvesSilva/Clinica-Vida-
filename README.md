@@ -1,0 +1,2 @@
+# Clinica-Vida-
+Clínica Popular Vida+ Sistema de gerenciamento de médicos, pacientes e consultas para uma clínica popular. Desenvolvido em Python com interface de terminal e banco de dados SQLite. Inclui funcionalidades de CRUD, agendamento, importação de dados e geração de relatórios em CSV.
